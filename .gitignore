@@ -1,0 +1,9 @@
+# IDE Extensions
+.history
+
+# Environment
+.env
+
+# Volumes
+postgres/data
+pgadmin/data
